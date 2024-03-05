@@ -1,0 +1,12 @@
+{
+  "name": "@nghiadinh91/tea-xyz-testnet",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@nghiadinh91",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimJulyer/tea-xyz-testnet.git"
+  },
+  "license": "ISC"
+}
